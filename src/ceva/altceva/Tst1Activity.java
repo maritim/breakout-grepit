@@ -186,6 +186,7 @@ public class Tst1Activity extends Activity {
     		mY = sY-mPlatform.getHeight()-10; 		
 
     		blocuri.removeAll(blocuri);
+    		explozii.removeAll(explozii);
     		
     		Random generator = new Random();
     		
